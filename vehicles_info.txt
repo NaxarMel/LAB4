@@ -1,0 +1,9 @@
+Brand: toyota, Year: 2005
+Type: Car, Number of Seats: 4
+--------------------------------
+Brand: opel, Year: 2010
+Type: Truck, Payload Capacity: 7 tons
+--------------------------------
+Brand: water, Year: 2005
+Type: Ship, Displacement: 6 tons
+--------
